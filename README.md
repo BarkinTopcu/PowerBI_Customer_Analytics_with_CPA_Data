@@ -1,8 +1,11 @@
-# 📊 Power BI – Customer Analytics Dashboard **(Work in Progress)**
+# 📊 Power BI – Customer Analytics Dashboard
 
 This project is a **Power BI dashboard** designed to analyze customer data and provide valuable business insights.  
 The dataset contains customer demographics, spending habits, campaign responses, and channel usage patterns.
 
+--
+## Current Dashboard
+![Description](Images/Dashboard_v1.png)
 ---
 
 ## 🎯 Objective
@@ -28,10 +31,13 @@ This dataset contains demographic, product preference, campaign response, and ch
 
 ---
 
-## 📌 Planned Features
-- **Demographic Analysis** – Education level, marital status, age distribution
-- **Spending Analysis** – Total spend per product category
+##✅ Completed
+- **Demographic Analysis** – Education level, marital status, age distribution  
+- **Spending Analysis** – Total spend per product category  
 - **Campaign Analysis** – Participation and acceptance rates
+- **Customer Status** - Active/Inactive/Risk
+
+## 📌 Planned Features
 - **Channel Performance** – Web, catalog, and in-store purchases comparison
 - **RFM Segmentation** – Customer classification based on Recency, Frequency, Monetary values
 
@@ -39,6 +45,6 @@ This dataset contains demographic, product preference, campaign response, and ch
 
 ## 🛠 Tools & Technologies
 - **Power BI Desktop**
-- **Power Query** – Data cleaning & transformation
-- **DAX** – Measures & calculations
+- **Power Query**
+- **DAX** – Measures, calculations, columns
 - **MySQL** – Data source (localhost)
