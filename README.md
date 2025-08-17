@@ -31,7 +31,7 @@ This dataset contains demographic, product preference, campaign response, and ch
 
 ---
 
-##✅ Completed
+## ✅ Completed
 - **Demographic Analysis** – Education level, marital status, age distribution  
 - **Spending Analysis** – Total spend per product category  
 - **Campaign Analysis** – Participation and acceptance rates
